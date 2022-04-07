@@ -1,16 +1,20 @@
-[![Jacob Herper - Software Engineer and Consultant in the UK](https://res.cloudinary.com/jacobherper/image/upload/v1641506277/gh-image.png)](https://jacobherper.com/)
+# Hi there, I'm Mon - aka 👋 
 
-I am a passionate Software Engineer, specialised in front-end development using React and TypeScript. As an advocate for web performance and accessibility and an evangelist for the Jamstack, I create amazing web applications to make the internet a better place. You can talk to me about anything related to JavaScript, the React ecosystem, Jamstack and the open web.
 
-Always happy to help you grow your tech career through mentorship. Please feel free to reach out, if you need help!
+## I'm a Gamer, Developer,
+
+
+Able to adapt and work in multiple positions, quick 
+learner and able to study new things on my own 
+through Udemy. Keen Interest in programming.
+
 
 ---
 
 <p align="center">
   <strong>More from me:</strong> 
-  <a href="https://jacobherper.com/">Website</a> •
-  <a href="https://twitter.com/intent/follow?screen_name=jakeherp&tw_p=followbutton">Twitter</a> •
-  <a href="https://www.linkedin.com/in/jacobherper/">LinkedIn</a>
+  <a href="https://peemapodnemakur.web.app/">Website</a> •
+  <a href="https://th.linkedin.com/in/peemapod-neamkur-a3b6721a8">LinkedIn</a>
 </p>
 
 ---
@@ -20,11 +24,9 @@ Always happy to help you grow your tech career through mentorship. Please feel f
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   4 hrs 13 mins   ████████████████████▒░░░░   81.15 %
-Markdown     18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-Bash         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-JavaScript   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Python       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+PL/SQL  7 hrs 13 mins   ████████████████████▒░░░░   81.15 %
+JavaScript   45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+VB.NET       45 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
