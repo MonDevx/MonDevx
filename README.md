@@ -6,7 +6,7 @@
 I'm a Developer
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about Nexjs
+- 🥅 2022 Goals: Learn more about Next.js
 - ⚡ Fun fact: I love to play game
 
 
@@ -19,7 +19,7 @@ through Udemy. Keen Interest in programming.
 
 <p align="center">
   <strong>More from me:</strong> 
-  <a href="https://peemapodnemakur.web.app/">Website</a> •
+  <a href="https://peemapodneamkur.web.app/">Website</a> •
   <a href="https://th.linkedin.com/in/peemapod-neamkur-a3b6721a8">LinkedIn</a>
 </p>
 
