@@ -6,7 +6,7 @@
 I'm a Developer
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about Next.js
+- 🥅 2023 Goals: Learn more about Golang microservice
 - ⚡ Fun fact: I love to play game
 
 
