@@ -19,7 +19,6 @@ through Udemy. Keen Interest in programming.
 
 <p align="center">
   <strong>More from me:</strong> 
-  <a href="https://peemapodneamkur.web.app/">Website</a> •
   <a href="https://th.linkedin.com/in/peemapod-neamkur-a3b6721a8">LinkedIn</a>
 </p>
 
