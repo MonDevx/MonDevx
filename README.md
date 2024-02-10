@@ -6,7 +6,7 @@
 I'm a Developer
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Learn more about Golang microservice
+- 🥅 2024 Goals: Learn JAVA Software Engineering boot camp
 - ⚡ Fun fact: I love to play game
 
 
@@ -23,15 +23,3 @@ through Udemy. Keen Interest in programming.
 </p>
 
 
-What I've worked on over the last few days:
-
-<!--START_SECTION:waka-->
-
-```text
-PL/SQL       7 hrs 13 mins   ████████████████████▒░░░░   81.15 %
-JavaScript   45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-VB.NET       45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-```
-
-<!--END_SECTION:waka-->
