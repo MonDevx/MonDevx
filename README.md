@@ -4,11 +4,13 @@
 ---
 
 ### ⚡ Quick Bio
-Full Stack Developer ที่มีประสบการณ์ 3 ปี เชี่ยวชาญการสร้าง Web & Mobile Applications ด้วยความประณีต ปัจจุบันกำลังมุ่งเน้นไปที่ **Cloud Architecture** และ **Scalable Backend**.
-
-* 🚀 **2025 Focus:** Cloud + AI Transformation
-* ☕ **Specialty:** Java, Node.js & React ecosystem
-* 🎮 **Hobby:** Gaming & Tech Exploration
+Hi 👋 I'm a Developer focusing on AI-Enhanced Web Development.
+🌱 Currently in 2026: I’m mastering how to integrate AI to build better websites faster. From using AI for smarter UI components to automating backend logic.
+🥅 2026 Goals:
+• AI-Driven UI: Crafting interfaces that adapt using AI.
+• Smart Automation: Using AI tools to optimize coding workflows and debugging.
+• Next-Gen Web: Building web apps that leverage LLMs for a better user experience.
+I believe AI is the ultimate co-pilot for modern developers. Let’s build the future of the web together! 🌐🤖
 
 ---
 
