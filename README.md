@@ -30,6 +30,7 @@ I bridge the gap between robust engineering and intelligent automation.
 - 🤖 **AI Explorer:** Building real-world apps powered by OpenAI, LangChain & local models
 - 🔭 **Working On:** Scalable full-stack systems with AI at the core
 - 💬 **Ask Me About:** React, Spring Boot, Node.js, AI Integration
+- ⚡ **Fun Fact:** I automate everything I do more than twice
 
 <br/>
 
@@ -53,6 +54,21 @@ I bridge the gap between robust engineering and intelligent automation.
     <td>Developing local-first, AI-integrated web applications</td>
   </tr>
 </table>
+
+---
+
+## 🔥 Currently Exploring
+
+<div align="center">
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+
+</div>
 
 ---
 
@@ -105,6 +121,21 @@ I bridge the gap between robust engineering and intelligent automation.
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MonDevx&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MonDevx/MonDevx/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MonDevx/MonDevx/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MonDevx/MonDevx/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## ⏱️ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
